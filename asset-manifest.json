@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_films/static/css/main.945c6a57.css",
+    "main.js": "/react_films/static/js/main.5f746c31.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/react_films/static/media/Rubik-VariableFont_wght.8b975fd73aa3f560c113.ttf",
+    "static/media/Rubik-Italic-VariableFont_wght.ttf": "/react_films/static/media/Rubik-Italic-VariableFont_wght.083b0ed180277c5a4941.ttf",
+    "static/media/Smile.png": "/react_films/static/media/Smile.6346a71d22990971b797.png",
+    "index.html": "/react_films/index.html",
+    "main.945c6a57.css.map": "/react_films/static/css/main.945c6a57.css.map",
+    "main.5f746c31.js.map": "/react_films/static/js/main.5f746c31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945c6a57.css",
+    "static/js/main.5f746c31.js"
+  ]
+}
